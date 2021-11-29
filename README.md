@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- 🧑‍💻 WORK IN PROGRESS
+>🧑‍💻 WORK IN PROGRESS
 
 <!---
 sorencoder/sorencoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

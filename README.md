@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sorencoder
 - 👀 I’m interested in computer technology
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently using flutter technology 
 - 💞️ I’m looking to collaborate on ... 🤔
 - 📫 How to reach me ...🗺️
 

@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer technology and I love creating things because I believe that technology can bring people together
 - 🌱 I’m currently learning flutter, python and DSA
 - 💞️ I’m looking to collaborate on any project that can bring impact to the life of people
-- 📫 How to reach me @discord mister_vilgax#0894 ✉️ ishwarsoren@outlook.com
+- 📫 How to reach me @discord → mister_vilgax#0894 ✉️ ishwarsoren@outlook.com
 
 >🧑‍💻 WORK IN PROGRESS
 

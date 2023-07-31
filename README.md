@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sorencoder
-- 👀 I’m interested in computer technology and I love creating things because I believe that technology can bring people together
-- 💞️ I’m looking to collaborate on any project that can bring impact to the life of people
+- 👀 I’m interested in computer technology and I love creating products and services that can bring people together from around the world
+- 💞️ I’m looking to collaborate on any project
 ## 🌱 I’m currently learning 
 - flutter
 - python
